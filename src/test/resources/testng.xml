@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="GitHub API Suite">
+  <test thread-count="1" name="Basic API Test">
+    <packages>
+      <package name="com.learn.auto.*"/>
+    </packages>
+  </test> <!-- Basic API Test -->
+</suite> <!-- GitHub API Suite -->
