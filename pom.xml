@@ -10,7 +10,7 @@
   	<testng.version>7.11.0</testng.version>
   	<apache.httpcomponents.version>4.5.14</apache.httpcomponents.version>
   	<json.version>20250107</json.version>
-  	<fasterxml.jackson.version>2.18.3</fasterxml.jackson.version>
+  	<fasterxml.jackson.version>2.22.0</fasterxml.jackson.version>
   	<maven.compiler.plugin.version>3.14.0</maven.compiler.plugin.version>
   	<maven.surefire.plugin.version>3.5.3</maven.surefire.plugin.version>
   </properties>
